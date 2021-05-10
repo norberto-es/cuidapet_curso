@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401686772331",
+    "project_id": "cuidapet-np",
+    "storage_bucket": "cuidapet-np.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401686772331:android:c27e250bb5352c7e6dcf2e",
+        "android_client_info": {
+          "package_name": "net.sytes.legalfind.cuidapet_curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401686772331-6aveh1b0it9u2vggvt7sulvpim0634m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.sytes.legalfind.cuidapet_curso",
+            "certificate_hash": "77b2b70262e9d1c68977a49d74f7d870782c2a55"
+          }
+        },
+        {
+          "client_id": "401686772331-p1m5vtk4um3umr8pirp787ubktj5ov0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4Z6mte7bWoaJ7tPbIkOFQcec16VBbp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401686772331-p1m5vtk4um3umr8pirp787ubktj5ov0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
